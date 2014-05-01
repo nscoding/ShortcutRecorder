@@ -539,7 +539,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: 6 Wunderkinder GmbH";
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Patrick CHAMELO (HPSF3D2F4U)";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
